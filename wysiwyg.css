@@ -1,0 +1,17 @@
+.container:nth-child(even)
+{
+	background-color: #FBF598;
+}
+.container:nth-child(odd)
+{
+	background-color: #A5ADEB;
+}
+.container img
+{
+	width: 150px;
+	height: 150px;
+}
+.border
+{
+	border: 10px dotted black;
+}
